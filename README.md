@@ -64,7 +64,8 @@
 </details>
 
 ### Автор
-[https://tgdev.io](https://tgdev.io)
+[Lorien](https://github.com/lorien)
+[Сайт с описанием и инструкциями](https://tgdev.io)
 
 ### Установка
 Следуйте этим шагам:
