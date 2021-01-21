@@ -66,6 +66,7 @@
 
 ### Автор
 [Lorien](https://github.com/lorien)
+
 [Сайт с описанием и инструкциями](https://tgdev.io)
 
 ### Установка
@@ -131,6 +132,7 @@
 
 ### Автор
 [Lorien](https://github.com/lorien)
+
 [Сайт с описанием и инструкциями](https://tgdev.io)
 
 ### Установка
