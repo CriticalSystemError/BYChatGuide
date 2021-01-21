@@ -91,7 +91,7 @@
 * Необязательный шаг: разрешите удаление мультимедийных сообщений от новых пользователей.
 
 <details>
-  <summary>Команды:</summary>
+  <summary>Команды</summary>
   
 ```/daysandbox set notify_actions=yes``` - настроить бота писать сообщения в чат о каждом удаленном спам-сообщении
 
@@ -159,7 +159,7 @@
 * Дайте боту разрешение на удаление сообщений. Никаких других разрешений не требуется
 
 <details>
-  <summary>Команды:</summary>
+  <summary>Команды</summary>
 
 ```/joinhider check``` - проверить, правильно ли установлен бот.
 
@@ -168,7 +168,6 @@
 ```/joinhider set delete_user_joined_msg MODE``` - включить или отключить удаление сообщений о подключении пользователя к чату. MODE должен быть да или нет. Пример команды: ```/ joinhider set delete_user_joined_msg yes```
 
 ```/joinhider set delete_user_left_msg MODE``` - включить или отключить удаление сообщений о выходе пользователя из чата. MODE должно быть yes или no. Пример команды: ```/joinhider set delete_user_left_msg yes```
-
 </details>
 
 Оригинальная инструкция на английском: [https://tgdev.io/bot/joinhider_bot](https://tgdev.io/bot/joinhider_bot)
