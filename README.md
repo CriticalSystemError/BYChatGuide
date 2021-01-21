@@ -12,7 +12,7 @@
 
 
 ## Пан Бан
-[@pan_ban_by](https://t.me/pan_ban_by){:target="_blank"}
+[@pan_ban_by](https://t.me/pan_ban_by)
 
 
 ### Описание
@@ -42,11 +42,11 @@
 
 ### Автор
 Антон Мотолько - белорусский активист, блогер, фотограф.
-[Подробнее](http://cyclowiki.org/wiki/%D0%90%D0%BD%D1%82%D0%BE%D0%BD_%D0%93%D0%B0%D0%B4%D0%B8%D0%BC%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C%D0%BE%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE){:target="_blank"}
+[Подробнее](https://cyclowiki.org/wiki/%D0%90%D0%BD%D1%82%D0%BE%D0%BD_%D0%93%D0%B0%D0%B4%D0%B8%D0%BC%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C%D0%BE%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE)
 
 
 ### Установка
-Для этого достаточно добавить [@pan_ban_by](https://t.me/pan_ban_by){:target="_blank"} в ваш чат и дать ему права администратора с разрешением удалять участников, а так же удалять сообщения(появилась функция удаления спам сообщений).
+Для этого достаточно добавить [@pan_ban_by](https://t.me/pan_ban_by) в ваш чат и дать ему права администратора с разрешением удалять участников, а так же удалять сообщения(появилась функция удаления спам сообщений).
 ВАЖНО: добавляйте Пан Бан только в чате где больше 100 участников.
 
 
@@ -56,7 +56,7 @@
 
 ## DaySandBox
 
-[@daysandbox_bot](https://t.me/daysandbox_bot){:target="_blank"}
+[@daysandbox_bot](https://t.me/daysandbox_bot)
 
 
 ### Описание
@@ -77,15 +77,15 @@
 
 
 ### Автор
-[Lorien](https://github.com/lorien){:target="_blank"}
+[Lorien](https://github.com/lorien)
 
-[Сайт автора с описанием и инструкциями](https://tgdev.io){:target="_blank"}
+[Сайт автора с описанием и инструкциями](https://tgdev.io)
 
 
 ### Установка
 Следуйте этим шагам:
 
-* Добавьте [@daysandbox_bot](https://t.me/daysandbox_bot){:target="_blank"} в качестве администратора в свой чат.
+* Добавьте [@daysandbox_bot](https://t.me/daysandbox_bot) в качестве администратора в свой чат.
 * Дайте боту разрешение на удаление сообщений. Никаких других разрешений не требуется.
 * Необязательный шаг: настроить белый список доменов и групп/каналов.
 * Необязательный шаг: разрешите удаление мультимедийных сообщений от новых пользователей.
@@ -124,15 +124,15 @@
 `/daysandbox set lang=<lang-code>` - настроить язык уведомлений. Допустимые значения для этих настроек: `en` и `ru`.
 </details>
 
-Оригинальная инструкция на английском: [https://tgdev.io/bot/daysandbox_bot](https://tgdev.io/bot/daysandbox_bot){:target="_blank"}
+Оригинальная инструкция на английском: [https://tgdev.io/bot/daysandbox_bot](https://tgdev.io/bot/daysandbox_bot)
 
 
 ### Собственная копия
-Репозиторий находится по адресу [https://github.com/lorien/daysandbox_bot](https://github.com/lorien/daysandbox_bot){:target="_blank"} - написан бот на языке программирования Python. Как таковой инструкции по запуску нет, но возможно появится в будущем. Программы на Python запускать достаточно просто(чуть позже возможно сделаем pull request с автоматизацией и запуском в [Docker](https://ru.wikipedia.org/wiki/Docker){:target="_blank"}).
+Репозиторий находится по адресу [https://github.com/lorien/daysandbox_bot](https://github.com/lorien/daysandbox_bot) - написан бот на языке программирования Python. Как таковой инструкции по запуску нет, но возможно появится в будущем. Программы на Python запускать достаточно просто(чуть позже возможно сделаем pull request с автоматизацией и запуском в [Docker](https://ru.wikipedia.org/wiki/Docker)).
 
 
 ## Join Hider Bot
-[@joinhider_bot](https://t.me/joinhider_bot){:target="_blank"}
+[@joinhider_bot](https://t.me/joinhider_bot)
 
 
 ### Описание
@@ -147,15 +147,15 @@
 
 
 ### Автор
-[Lorien](https://github.com/lorien){:target="_blank"}
+[Lorien](https://github.com/lorien)
 
-[Сайт автора с описанием и инструкциями](https://tgdev.io){:target="_blank"}
+[Сайт автора с описанием и инструкциями](https://tgdev.io)
 
 
 ### Установка
 Следуйте этим шагам:
 
-* Добавьте [@joinhider_bot](https://t.me/joinhider_bot){:target="_blank"} в качестве администратора в свой чат
+* Добавьте [@joinhider_bot](https://t.me/joinhider_bot) в качестве администратора в свой чат
 * Дайте боту разрешение на удаление сообщений. Никаких других разрешений не требуется
 
 <details>
@@ -170,15 +170,15 @@
 `/joinhider set delete_user_left_msg MODE` - включить или отключить удаление сообщений о выходе пользователя из чата. MODE должно быть yes или no. Пример команды: `/joinhider set delete_user_left_msg yes`
 </details>
 
-Оригинальная инструкция на английском: [https://tgdev.io/bot/joinhider_bot](https://tgdev.io/bot/joinhider_bot){:target="_blank"}
+Оригинальная инструкция на английском: [https://tgdev.io/bot/joinhider_bot](https://tgdev.io/bot/joinhider_bot)
 
 
 ### Собственная копия
-Репозиторий находится по адресу [https://github.com/lorien/joinhider_bot](https://github.com/lorien/joinhider_bot){:target="_blank"} - написан бот на языке программирования Python. Как таковой инструкции по запуску нет, но возможно появится в будущем. Программы на Python запускать достаточно просто(чуть позже возможно сделаем pull request с автоматизацией и запуском в [Docker](https://ru.wikipedia.org/wiki/Docker){:target="_blank"}).
+Репозиторий находится по адресу [https://github.com/lorien/joinhider_bot](https://github.com/lorien/joinhider_bot) - написан бот на языке программирования Python. Как таковой инструкции по запуску нет, но возможно появится в будущем. Программы на Python запускать достаточно просто(чуть позже возможно сделаем pull request с автоматизацией и запуском в [Docker](https://ru.wikipedia.org/wiki/Docker)).
 
 
 ## CaptchaBot
-[@captcha97_bot](https://t.me/captcha97_bot){:target="_blank"}
+[@captcha97_bot](https://t.me/captcha97_bot)
 
 
 ### Описание
@@ -188,22 +188,22 @@
 
 
 ### Автор
-Некий анонимный [разработчик](https://github.com/F0rzend){:target="_blank"} из Беларуси.
+Некий анонимный [разработчик](https://github.com/F0rzend) из Беларуси.
 
 
 ### Установка
 Следуйте этим шагам:
 
-* Добавьте [@captcha97_bot](https://t.me/captcha97_bot){:target="_blank"} в качестве администратора в свой чат
+* Добавьте [@captcha97_bot](https://t.me/captcha97_bot) в качестве администратора в свой чат
 * Дайте боту разрешения на изменение профиля группы, удаление сообщений, блокировку участников. Больше никаких настроек не требуется.
 
 
 ### Собственная копия
-Код доступен [здесь](https://github.com/F0rzend/antirobot_aiogram){:target="_blank"}, там же есть неплохая инструкция по запуску.
+Код доступен [здесь](https://github.com/F0rzend/antirobot_aiogram), там же есть неплохая инструкция по запуску.
 
 
 ## Telegram Report Bot
-[https://github.com/MasterGroosha/telegram-report-bot](https://github.com/MasterGroosha/telegram-report-bot){:target="_blank"}
+[https://github.com/MasterGroosha/telegram-report-bot](https://github.com/MasterGroosha/telegram-report-bot)
 
 
 ### Описание
@@ -211,7 +211,7 @@
 
 
 ### Автор
-[Профиль разработчика на github](https://github.com/MasterGroosha){:target="_blank"}.
+[Профиль разработчика на github](https://github.com/MasterGroosha).
 
 
 ### Установка
@@ -219,4 +219,4 @@
 
 
 ### Собственная копия
-Репозиторий находится по адресу [https://github.com/MasterGroosha/telegram-report-bot](https://github.com/MasterGroosha/telegram-report-bot){:target="_blank"}, там же есть и инструкция по запуску(правда на английском), имеется возможность запуска в [Docker](https://ru.wikipedia.org/wiki/Docker){:target="_blank"}(что несомненно большой плюс, так как значительно облегчает процесс запуска).
+Репозиторий находится по адресу [https://github.com/MasterGroosha/telegram-report-bot](https://github.com/MasterGroosha/telegram-report-bot), там же есть и инструкция по запуску(правда на английском), имеется возможность запуска в [Docker](https://ru.wikipedia.org/wiki/Docker)(что несомненно большой плюс, так как значительно облегчает процесс запуска).
