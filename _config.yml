@@ -1,3 +1,5 @@
+plugins:
+  - jekyll-target-blank
 markdown: CommonMarkGhPages
 commonmark:
   options: ["SMART", "FOOTNOTES"]
