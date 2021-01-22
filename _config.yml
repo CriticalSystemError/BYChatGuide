@@ -1,3 +1,5 @@
+gems:
+  - jekyll-target-blank
 plugins:
   - jekyll-target-blank
 markdown: CommonMarkGhPages
