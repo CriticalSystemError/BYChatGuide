@@ -1,0 +1,10 @@
+gems:
+  - jekyll-target-blank
+plugins:
+  - jekyll-target-blank
+markdown: CommonMarkGhPages
+commonmark:
+  options: ["SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
+
+theme: jekyll-theme-cayman
